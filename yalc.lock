@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "utua-react-library": {
+      "signature": "e2f8ca488fd0ab4739e39f11ea067275",
+      "file": true
+    }
+  }
+}
