@@ -1,6 +1,6 @@
 import "react/jsx-runtime";
 import "react";
-import { B as p } from "../../Button-evJIStwZ.js";
+import { B as p } from "../../Button-QQkSLjLk.js";
 export {
   p as Button
 };

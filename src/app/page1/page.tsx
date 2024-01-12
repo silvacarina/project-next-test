@@ -11,6 +11,15 @@ const PageOne = () => {
       </div>
       <div>
       <AlertBar
+        type="dark"
+        iconVariant="info"
+        IconNotification={InfoOutlinedIcon}
+        IconClose={CloseOutlinedIcon}
+        title="Notification title"
+        description="Lorem ipsum dolor sit amet consectetur. Porta aliquet placerat velit pharetra malesuada."
+      />
+      <hr />
+      <AlertBar
         iconVariant="info"
         IconNotification={InfoOutlinedIcon}
         IconClose={CloseOutlinedIcon}
